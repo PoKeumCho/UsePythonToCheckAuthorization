@@ -10,6 +10,11 @@
 ![pythonServer_3](https://user-images.githubusercontent.com/88548181/151646357-2cf600cf-e9c5-4e32-aead-2a3f78a56b81.gif)
    
 - - -
+**Youtube**   
+* https://youtu.be/nNqbVqam7ds
+* https://youtu.be/aLIturEpmHI
+* https://youtu.be/s2Y77DSr4gk
+- - -
 **References (참고자료)**     
 * 웨슬리 천 (오현석,서형국) - 코어 파이썬 애플리케이션 프로그래밍 Core Python Applications Programming Third Edition    
   [ Chapter 10. 웹 프로그래밍: CGI와 WSGI ]

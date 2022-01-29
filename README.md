@@ -1,13 +1,13 @@
 # [SScommunity(sscommu)]    
     
 ## 1. Server setting (open up tcp port 8000-8019)   
-![pythonServer_2](https://user-images.githubusercontent.com/88548181/151645380-04488286-d328-4d17-980b-6e8e64a91ba1.gif)   
+![pythonServer_2](https://user-images.githubusercontent.com/88548181/151646329-aaf6968a-bd92-4a97-abd6-0548ff066388.gif)
    
 ## 2. Set server to run CGI applications  
-![pythonServer_1](https://user-images.githubusercontent.com/88548181/151645842-a52c71e6-b4e9-4f08-924f-3349a3186abe.gif)
+![pythonServer_1](https://user-images.githubusercontent.com/88548181/151646339-0a8ff2c2-4c51-46ea-b233-b34d13cd2d73.gif)
     
 ## 3. How it works ([좌] Server / [우] Client)   
-![pythonServer_3](https://user-images.githubusercontent.com/88548181/151646017-d4772404-5052-41ff-9691-c9e797c63a67.gif)
+![pythonServer_3](https://user-images.githubusercontent.com/88548181/151646357-2cf600cf-e9c5-4e32-aead-2a3f78a56b81.gif)
    
 - - -
 **References (참고자료)**     
